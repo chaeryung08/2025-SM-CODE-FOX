@@ -1,17 +1,18 @@
 body {
-  background: linear-gradient(to down, #87CEFA, #1E90FF);
-  font-family: 'Noto Sans KR', sans-serif;
+  background: linear-gradient(to bottom, #87CEFA, #1E90FF);
+  font-family: 'Gungsuh', '궁서', serif;
+  font-weight: bold;
   color: navy;
   margin: 0;
-  padding: 40px;
+  padding: 60px;
   text-align: center;
 }
 h1 {
-  font-size: 35rem; 
-  color: #FF9966;
+  font-size: 70rem; 
+  color: #FFCA1A;
 }
 
 p {
-  font-size: 10rem; /* 약간 큰 본문 글씨 */
-  color: #f0f8ff;    /* 아주 연한 파란빛 흰색 */
+  font-size: 30rem; /* 약간 큰 본문 글씨 */
+  color: #FF0000;    /* 아주 연한 파란빛 흰색 */
 }
